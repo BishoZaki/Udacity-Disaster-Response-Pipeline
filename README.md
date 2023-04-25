@@ -1,4 +1,4 @@
-# H1 Disaster Response Pipeline Project
+#  Disaster Response Pipeline Project
 
 
 In the Project, we used a data set containing real messages that were sent during disaster events. We created a machine learning pipeline to categorize these events so that you can send the messages to an appropriate disaster relief agency.
